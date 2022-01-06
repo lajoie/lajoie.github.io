@@ -1,5 +1,5 @@
 url: http://brainpaste.blog
-name: Brain Paste
+title: Brain Paste
 description: Longer-form Ramblings From A Technologist
 avatar: /images/logo.jpg
 
@@ -28,7 +28,7 @@ kramdown:
 sass:
   style: :compressed
 
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
