@@ -45,3 +45,4 @@ title: "About :: Media"
 * [PBS Space Time](https://www.youtube.com/c/pbsspacetime)
 * [Joe Scott](https://www.youtube.com/c/joescott)
 * [Kurzgesagt](https://www.youtube.com/c/inanutshell)
+* [Tom Rocks Maths](https://www.youtube.com/c/TomRocksMaths)
