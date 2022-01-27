@@ -28,7 +28,7 @@ Those that know me know that I try to be pretty scientifically grounded; if I be
 
 This "crisis" has been used by some individuals to argue, basically, that all research should be treated as mere opinion and is thus safely ignored.  This is, in my own opinion, the wrong take away.  Leaving aside the cases of outright fraud, what this crisis says to me is two things.  First, we should understand that human behavior is an incredibly complex system composed of a vast number of variables and testing any part of it in isolation is a very difficult task.  Second, it then follows that when encountering new material we should critically evaluate the source and think about how we apply/act on what the material purports to tell us.
 
-This critical thinking requirement is another reason why applying this material to ourselves and the groups and companies to which we belong is hard and, I think, neglected.  It reminds me of [On The Media](https://www.wnycstudios.org/podcasts/otm_)'s [Breaking News Consumer's Handbook: Fake News Edition](https://www.wnycstudios.org/podcasts/otm/segments/breaking-news-consumer-handbook-fake-news-edition).  There checklist applies just as much here as when evaluating the news, in my opinion.
+This critical thinking requirement is another reason why applying this material to ourselves and the groups and companies to which we belong is hard and, I think, neglected.  It reminds me of [On The Media](https://www.wnycstudios.org/podcasts/otm)'s [Breaking News Consumer's Handbook: Fake News Edition](https://www.wnycstudios.org/podcasts/otm/segments/breaking-news-consumer-handbook-fake-news-edition).  Their checklist applies just as much here as when evaluating the news, in my opinion.
 
 
 ---
