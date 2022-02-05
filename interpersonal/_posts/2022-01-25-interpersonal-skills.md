@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Interpersonal Skills - So Important We Never Talk About Them"
+title: "Interpersonal Skills :: So Important We Never Talk About Them"
 category: "interpersonal"
 ---
 
