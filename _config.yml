@@ -15,13 +15,16 @@ footer-links:
 #
 theme: jekyll-theme-tactile
 permalink: /:title/
+lsi: false
+safe: true
+incremental: false
+timezone: American/New_York
 
-# The release of Jekyll Now that you're using
-version: v1.2.0
+gist:
+  noscript: false
 
-# Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
-  input: GFM
+  math_engine: mathjax
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     css_class: 'highlight'
@@ -30,8 +33,13 @@ sass:
   style: :compressed
 
 plugins:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+
+whitelist:
+  - jekyll-feed
+  - jekyll-sitemap
+
 
 exclude:
   - Gemfile
@@ -39,3 +47,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - .ruby-version
