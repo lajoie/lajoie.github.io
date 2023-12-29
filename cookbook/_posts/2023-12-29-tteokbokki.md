@@ -6,7 +6,7 @@ category: "recipe"
 ## Ingredients
 - Tteokbokki rice cakes (handful)
 - 1 teaspoon toasted sesame oil 
-- 1/2 cup tteokbokki sauce
+- 1/2 cup [tteokbokki sauce](/tteokbokki-sauce)
 
 ## Preperation
 1. Warm seasme oil over medium heat

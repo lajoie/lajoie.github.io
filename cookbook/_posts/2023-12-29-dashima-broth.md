@@ -17,7 +17,7 @@ category: "recipe"
 1. Strain
 
 ## Notes
-- I use this when making Tteokbokki sauce and congee
+- I use this when making [Tteokbokki sauce](/tteokbokki-sauce) and [congee](/congee)
 - I generally make a double or triple batch and freeze what I don't use
 
 ---

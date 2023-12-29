@@ -8,7 +8,7 @@ category: "recipe"
 - 1 tsp gochugaru 
 - 1 Tbsp soy sauce 
 - 2 tsp corn syrup (optional)
-- 1/4 cup dashima broth
+- 1/4 cup [dashima broth](/dashima-broth)
 - 1 clove garlic, crushed
 
 ## Preperation
