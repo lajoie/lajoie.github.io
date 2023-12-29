@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HTTP APIs :: An Introduction"
-category: httpapi
+tag: "blog"
 ---
 
 As developers we've been making HTTP APIs<sup>[\*](#foot1)</sup> almost since the moment HTTP started to see adoption; think of [CGI](https://en.wikipedia.org/wiki/Common_Gateway_Interface) scripts written in Perl or PHP (or don't imagine it if you want to avoid the nightmare of those good-old-days).  In that time we've learned an awful lot about improving the structure of our code and the associated, language-specific (e.g., Java, Ruby, Go) APIs.  However, it doesn't feel like we've made similar progress with our HTTP APIs.  So, in this series of posts I want to take a deeper dive into various aspects of HTTP APIs and proffer some opinions on how we can do better.

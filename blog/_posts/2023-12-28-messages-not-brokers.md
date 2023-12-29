@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Messages Not Brokers
+title: "Messages Not Brokers"
+tag: "blog"
 ---
 "Event sourcing", "CQRS", or just plain "messaging" - it has been years since I've talked to a developer working on a network-exposed (usually via HTTP) service without these coming up within the initial discussion. Over the years it has become an almost doctrinal position that services need to be emitting messages and that those messages must go through a message broker (e.g., RabbitMQ, Kafka, or some cloud-provider messaging system).  Yet, such systems can be incredibly complicated to deploy, run, scale, and diagnose.  Additionally, developers often believe that certain behaviors (e.g., only-once delivery, absolute ordering) are present and guaranteed in message brokers when, in fact, they are not.
 

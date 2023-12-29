@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HTTP APIs :: Resources And Representations"
-category: httpapi
+tag: "blog"
 ---
 
 At the core of HTTP is the notion of resources and representations.  In this post I'll take a deep dive into each as well as discuss some implementation details that are important to consider when implementing an HTTP API.  My next post will then discuss how some of the functionality and recommendations described here are used within the HTTP requests and responses in order to get some desirable behavior.

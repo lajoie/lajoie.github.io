@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interpersonal Skills :: So Important We Never Talk About Them"
-category: "interpersonal"
+tag: "blog"
 ---
 
 How many of us have heard that "soft skills", "communication", "teamwork" and the like are "critical", "the most important thing", or "just as important as your technical skills"?  Or perhaps from management you've heard that "people are our most important resource", "we want everyone to flourish", and "bring your whole self to work"?  I suspect nearly all of us.  Now, look around and count up all the time your peers, management, and company spends having well informed discussion and training on skills really meant to address/advance these goals.  I bet that number is much smaller than you'd expect for something that is "the most important thing".  So, why the disconnect and what would we do if we actually wanted this to be true?  My thoughts around these questions are what I'll be discussing in this "Interpersonal Skills" series.

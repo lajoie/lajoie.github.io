@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HTTP APIs :: HTTP Basics"
-category: httpapi
+tag: "blog"
 ---
 
 One thing that has made HTTP the go-to choice for application protocols is that its basic semantics are very straightforward.  However, this simplicity has also led a lot of developers make explicit or implicit assumptions about how those basic building blocks work.  In this post, I want to look at some of those potential assumptions.
