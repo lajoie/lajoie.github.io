@@ -34,11 +34,9 @@ sass:
 
 plugins:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 
 whitelist:
   - jekyll-feed
-  - jekyll-sitemap
 
 
 exclude:

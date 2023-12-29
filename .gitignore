@@ -8,7 +8,6 @@ _site
 .ruby-version
 .sass-cache
 *.sublime-*
-Gemfile
 Gemfile.lock
 node_modules
 package.json
