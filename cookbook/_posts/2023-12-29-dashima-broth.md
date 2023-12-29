@@ -5,7 +5,7 @@ category: "recipe"
 
 ## Ingredients
 - 4 Cups water
-- 6 inch size piece
+- 6 inch kombu piece
 - handful dried shaved tuna
 - 2 green onions 
 - 1 white onion, quartered
