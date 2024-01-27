@@ -115,7 +115,7 @@ img {
   max-width: none;
 }
 
-.date {
+.date, .license {
   font-style: italic;
   color: $gray;
 }
@@ -268,6 +268,20 @@ nav {
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
+  }
+
+  .footer {
+    display: flex;
+
+    .column-left {
+      flex: 50%;
+      text-align: left;
+    }
+
+    .column-right {
+      flex: 50;
+      text-align: right;
+    }
   }
 }
 

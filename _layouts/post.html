@@ -9,7 +9,17 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+  <div class="footer">
+    <div class="column-left">
+      <div class="date">
+        Written on {{ page.date | date: "%B %e, %Y" }}
+      </div>
+    </div>
+    <div class="column-right">
+      <div class="license">
+        This work is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0</a>
+      </div>
+    </div>      
   </div>
+ 
 </article>
